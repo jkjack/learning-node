@@ -30,5 +30,8 @@
 -40:00
   Node can do a lot of things at once, because it's not blockng
   helloWorld-server.js
+
+-1:00:00
+  Node is a sigleThread sort of system (1 process, 1 thread in this process)
   
 */

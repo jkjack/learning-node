@@ -21,4 +21,13 @@
     // Test server with 100 request at same time
     ab -n 100 -c 100 http://127.0.0.1:8000/
 
+-25:00
+    tcp-server.js
+    telnet localhost 8000
+    nc localhost 8000
+    Javascript => Functions and add numbers, string, arrays, objects
+
+-40:00
+  Node can do a lot of things at once, because it's not blockng
+  
 */

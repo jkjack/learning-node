@@ -33,5 +33,7 @@
 
 -1:00:00
   Node is a sigleThread sort of system (1 process, 1 thread in this process)
-  
+  Node ideia is asimple building block, to scale out they have to talk with anothers
+  npm (NOde package manager) -> install popular libraries
+  The popular web framework is express js
 */
